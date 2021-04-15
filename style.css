@@ -1,0 +1,22 @@
+  
+body{
+    height:95vh;
+    width: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(63, 110, 62);
+    color: rgb(15, 24, 15);
+}
+
+title{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 60%;
+}
+
+header .imagem{
+    display: flex;
+    padding-right:  100px;
+}
+   
